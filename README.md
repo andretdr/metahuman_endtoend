@@ -8,7 +8,7 @@ https://www.youtube.com/live/OYjq4aRgKWg?
 https://www.youtube.com/watch?v=obtcuTXqHPs   
 https://www.youtube.com/watch?v=YyWw-yofP_I&t=524s   
 
-Exporting Metahumans maya w face n body rig   
+Advanced Skeleton
 https://www.youtube.com/watch?v=Z-Mjr3rz4rs   
 
 ### Lighting and rendering
