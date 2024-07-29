@@ -4,26 +4,26 @@ Test animation and render for end to end, UE5 to Maya back to UE5 workflow
 ## Resources
 ### Exporting and importing
 Exporting metahumans from UE5 using Qixel Bridge to Maya
-https://www.youtube.com/live/OYjq4aRgKWg?
-https://www.youtube.com/watch?v=obtcuTXqHPs
-https://www.youtube.com/watch?v=YyWw-yofP_I&t=524s
+https://www.youtube.com/live/OYjq4aRgKWg?   
+https://www.youtube.com/watch?v=obtcuTXqHPs   
+https://www.youtube.com/watch?v=YyWw-yofP_I&t=524s   
 
 Exporting Metahumans maya w face n body rig
-https://www.youtube.com/watch?v=Z-Mjr3rz4rs
+https://www.youtube.com/watch?v=Z-Mjr3rz4rs   
 
 ### Lighting and rendering
 Focal plane, rendering
-https://www.youtube.com/watch?v=yqGlyhPXy5A
+https://www.youtube.com/watch?v=yqGlyhPXy5A   
 
 Lighting
-https://www.youtube.com/watch?v=PFsg3zx6_vc
+https://www.youtube.com/watch?v=PFsg3zx6_vc   
 
 Render to video
-https://www.youtube.com/watch?v=4coMmBgEDIc
+https://www.youtube.com/watch?v=4coMmBgEDIc   
 
 ### Downloading references from online
-REFERENCE DOWNLOAD
-https://en1.savefrom.net/1-youtube-video-downloader-2cs/
+REFERENCE DOWNLOAD   
+https://en1.savefrom.net/1-youtube-video-downloader-2cs/   
 
 ### Tips
 When exporting MetaHumans into Autodesk Maya, you might experience textures missing from your MetaHuman.
