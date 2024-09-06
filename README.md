@@ -1,5 +1,6 @@
 # metahuman_endtoend
 Test animation and render for end to end, UE5 to Maya back to UE5 workflow
+*Brotools or LMspring is blocking the quixel plugin from loading. Quixel plugin needed for face connection*
 
 ## Resources
 ### Exporting and importing
