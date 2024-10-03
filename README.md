@@ -2,14 +2,14 @@
 Test animation and render for end to end, UE5 to Maya back to UE5 workflow   
 
 ## Installing MS megascans plugin to Maya
-I installed MS mod on maya 2022 and Brotools onto 2024.
-C:\Users\Andre\Documents\maya\2022\modules\quixel.mod
-C:\Users\Andre\Documents\maya\2024\modules\brotools.mod
+I installed MS mod on maya 2022 and Brotools onto 2024.   
+C:\Users\Andre\Documents\maya\2022\modules\quixel.mod   
+C:\Users\Andre\Documents\maya\2024\modules\brotools.mod   
 
-Seems like MS plugin is VERY sensitive, even importing hotkeys will break it.
+Seems like MS plugin is VERY sensitive, even importing hotkeys will break it.   
 
-I install new Maya 2022, new Bridge.
-I import all my hotkeys and layouts FIRST, *THEN* install the plugin.
+I install new Maya 2022, new Bridge.   
+I import all my hotkeys and layouts FIRST, *THEN* install the plugin.   
 
 ## Resetting
 I find that uninstalling Maya 2022 deleteing Documents/Users/maya/2022, deleting bridge and reinstalling all, helps.
