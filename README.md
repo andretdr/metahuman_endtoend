@@ -24,6 +24,14 @@ https://www.youtube.com/watch?v=YyWw-yofP_I&t=524s
 Advanced Skeleton
 https://www.youtube.com/watch?v=Z-Mjr3rz4rs   
 
+### clothing
+https://youtu.be/4b83bc7OvXs?si=DObeO5Bzyx-TIcjY
+
+
+Bringing in clothing for metahuman in maya and transfer skin weights
+
+you can get free clothing for metahumans from metahuman creator
+
 ### Lighting and rendering
 Focal plane, rendering   
 https://www.youtube.com/watch?v=yqGlyhPXy5A   
