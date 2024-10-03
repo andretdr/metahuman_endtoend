@@ -1,11 +1,15 @@
 # metahuman_endtoend
 Test animation and render for end to end, UE5 to Maya back to UE5 workflow   
-*Brotools blocking the quixel plugin from loading. Quixel plugin needed for face connection*
 
 ## Installing MS megascans plugin to Maya
 I find that uninstalling Maya and all its plugins, MtoA, USD, Bitfrost, deleteing Documents/Users/maya, and C:\program Files\Autodesk\maya, deleting bridge and reinstalling all, helps.
 
 Mayabe you can try just removing bridge, and Documents/Users/maya/2022/modules and reinstalling
+
+## Setup
+Since Brotools plug in seems to block MS megascans plugin, I installed MS mod on maya 2022 and Brotools onto 2024.
+C:\Users\Andre\Documents\maya\2022\modules\quixel.mod
+C:\Users\Andre\Documents\maya\2024\modules\brotools.mod
 
 
 ## Resources
