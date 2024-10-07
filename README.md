@@ -25,7 +25,8 @@ Advanced Skeleton
 https://www.youtube.com/watch?v=Z-Mjr3rz4rs   
 
 ### clothing
-https://youtu.be/4b83bc7OvXs?si=DObeO5Bzyx-TIcjY
+https://youtu.be/4b83bc7OvXs?si=DObeO5Bzyx-TIcjY   
+https://youtu.be/beVjbTROiDk?si=W0ykRRjiys4Mnz7s   
 
 
 Bringing in clothing for metahuman in maya and transfer skin weights
