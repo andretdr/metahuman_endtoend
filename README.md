@@ -19,17 +19,17 @@ I find that uninstalling Maya 2022 deleteing Documents/Users/maya/2022, deleting
 Exporting metahumans from UE5 using Qixel Bridge to Maya   
 https://www.youtube.com/watch?v=YyWw-yofP_I&t=524s   
 
-Import export body and face anim to unreal
+Import export body and face anim to unreal   
 https://www.youtube.com/live/OYjq4aRgKWg?   
 
-Import export for face controls
+Import export for face controls   
 https://www.youtube.com/watch?v=obtcuTXqHPs   
 
-Export and import cam from maya to unreal
+Export and import cam from maya to unreal    
 https://www.youtube.com/watch?v=MrAdawNEx6U
 
 
-Advanced Skeleton
+Advanced Skeleton   
 https://www.youtube.com/watch?v=Z-Mjr3rz4rs   
 
 ### clothing
