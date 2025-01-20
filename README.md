@@ -28,8 +28,8 @@ https://www.youtube.com/watch?v=obtcuTXqHPs
 Export and import cam from maya to unreal    
 https://www.youtube.com/watch?v=MrAdawNEx6U
 
-
-Advanced Skeleton   
+Quixel to Maya, Maya to unreal
+Advanced Skeleton
 https://www.youtube.com/watch?v=Z-Mjr3rz4rs   
 
 ### clothing
