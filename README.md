@@ -54,6 +54,12 @@ https://www.youtube.com/watch?v=4coMmBgEDIc
 ### Retargeting in UE   
 https://www.youtube.com/watch?v=oz4TJp_z9IE   
 
+### Face blendshapes
+ARKIT   
+https://pooyadeperson.com/the-ultimate-guide-to-creating-arkits-52-facial-blendshapes/#:~:text=What%20are%20ARKit%2052%20facial,rigs%2C%20and%20laser%20marker%20systems.   
+VISEMES   
+https://developers.meta.com/horizon/documentation/unity/audio-ovrlipsync-viseme-reference/   
+
 ### Downloading references from online
 REFERENCE DOWNLOAD      
 https://en1.savefrom.net/1-youtube-video-downloader-2cs/   
